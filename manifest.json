@@ -1,0 +1,11 @@
+{
+	"id": "writer-assist",
+	"name": "Writer Assist",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "hehe boiii",
+	"author": "ferro",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
